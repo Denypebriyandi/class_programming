@@ -1,4 +1,3 @@
-// data siswa
 [
     {
         nama: "Budi",
@@ -59,5 +58,5 @@
         matematika: 75,
         bahasa_indonesia: 75,
         ipa: 65
-    },
-];
+    }
+]
